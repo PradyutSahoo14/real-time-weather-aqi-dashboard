@@ -1,0 +1,7 @@
+## 📌 API I USED ARE:-
+
+- HYDERABAD - http://api.weatherapi.com/v1/forecast.json?key=31ea6dab7dbf4de6a8771424252406&q=Hyderabad&days=7&aqi=yes&alerts=no
+- Sikkim - http://api.weatherapi.com/v1/forecast.json?key=31ea6dab7dbf4de6a8771424252406&q=Sikkim&days=7&aqi=yes&alerts=no
+- Cuttack - http://api.weatherapi.com/v1/forecast.json?key=31ea6dab7dbf4de6a8771424252406&q=Cuttack&days=7&aqi=yes&alerts=no
+- Noida - http://api.weatherapi.com/v1/forecast.json?key=31ea6dab7dbf4de6a8771424252406&q=Noida&days=7&aqi=yes&alerts=no
+- Shimla - http://api.weatherapi.com/v1/forecast.json?key=31ea6dab7dbf4de6a8771424252406&q=Shimla&days=7&aqi=yes&alerts=no
